@@ -19,3 +19,8 @@ Also QR code Reader | Scanner in Python
     * https://pypi.org/project/Pillow/
     
 Instructions are in these sites. Have Fun !
+
+
+Inspired From :
+
+https://github.com/harshitroy2605
