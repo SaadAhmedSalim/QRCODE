@@ -2,6 +2,8 @@
 
 QR Code Generator and Reader in Python.
 
+<img src="https://github.com/SaadAhmedSalim/QRCODE/blob/master/QRCodeGeneratorUsingPython/QR.png">
+
 Interesting Python Project.
 
 QR code generator for a URL in Python | Create QR code for any site easily !
